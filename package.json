@@ -2,7 +2,7 @@
   "name": "ntn-boilerplate",
   "version": "2.1.2",
   "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <hello+dev@svenparker.com> (https://svenparker.com)",
+  "author": "Karthik Ravishankar",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
