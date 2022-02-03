@@ -1,28 +1,17 @@
 ---
-createdAt: 2021-03-01
-title: How to edit the content
-description: And what to expect when running a repo-based CMS
+createdAt: 2022-02-03
+title: Writing My First Blog (Burger Blog)
+description: This is me trying out Netlify Blog for the first time :)
 ---
 
-It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images and even code snippets.
+About Burger: It is a main course of food in many countries and its origin is in Germany/USA
 
-If you are in local development-mode (`npm run dev`) you can double-click here to edit and save this page quickly.
+![Placeholder Burger](https://th.bing.com/th/id/R.0e1ee916da3b61224ce9d470208f8419?rik=zv%2fMOIVfe0Azlg&pid=ImgRaw&r=0)
 
+### About Burger :)
 
-```js{1,4}[posts.vue]
-formatDate(dateString) {
-  const date = new Date(dateString)
-  return date.toLocaleDateString(process.env.lang) || ''
-}
-```
+1. A hamburger (or burger for short) is a food, typically considered a sandwich, consisting of one or more cooked patties—usually ground meat, typically beef—placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis; condiments such as ketchup, mustard, mayonnaise, relish, or a "special sauce", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.[1]
 
-![Placeholder Kitten](https://placekitten.com/800/400)
+2. The term burger can also be applied to the meat patty on its own, especially in the United Kingdom, where the term patty is rarely used, or the term can even refer simply to ground beef. Since the term hamburger usually implies beef, for clarity burger may be prefixed with the type of meat or meat substitute used, as in beef burger, turkey burger, bison burger, portobello burger, or veggie burger.
 
-### Steps to take:
-1. **Go to admin:** You can navigate to the admin-page by typing in `/admin` after the URL your browser’s omnibox above.
-
-2. **Navigate to Blog:** In blog you can edit existing blog posts like this one, remove it, or create new ones. They’ll be added to a pull request by Netlify CMS that you merge in the next step by saving.
-
-3. **Save your changes:** After you have edited the content on the site, you need to save. This will trigger Netlify CMS to merge the PR to the main branch (it will show up in your git log).
-
-4. **Grab a coffee:** After saving, you have to wait for Netlify to build your main branch (which probably takes 2-5 minutes, depending on your setup). If you’re a control-freak, login to Netlify to watch your build run and see when it is published. You can also publish older commits from there."
+3. Hamburgers are typically sold at fast-food restaurants, diners, and specialty and high-end restaurants. There are many international and regional variations of hamburgers.
