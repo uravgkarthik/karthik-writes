@@ -1,7 +1,7 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "karthik-writes",
   "version": "2.1.2",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
+  "description": "My Personal; Blogging Site",
   "author": "Karthik Ravishankar",
   "scripts": {
     "dev": "nuxt",
